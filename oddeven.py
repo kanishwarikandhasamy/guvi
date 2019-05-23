@@ -1,5 +1,5 @@
 kani=int(input())
 if(kani%2==0):
- print("even")
+ print("Even")
 else:
- print("odd")
+ print("Odd")
