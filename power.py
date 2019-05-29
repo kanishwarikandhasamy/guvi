@@ -1,5 +1,5 @@
-kani=int(input())
+paps=int(input())
 suji=int(input())
-rubi=kani**suji
+rubi=paps**suji
 print(rubi)
 
