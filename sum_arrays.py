@@ -5,5 +5,3 @@ if(k<=n):
     for i in range(1,k+1):
         sum=sum+i
     print(sum)
-else:
-    print("invalid")
