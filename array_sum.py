@@ -1,0 +1,5 @@
+kani=int(input())
+suji=int(input())
+rubi=int(input())
+paps=(kani/2)*((2*suji)+((kani-1)*rubi))
+print(paps)
