@@ -1,4 +1,4 @@
 kani=input()
-suji=int(input())
-for i in range(0,suji):
+s=int(input())
+for i in range(0,s):
     print(kani)
