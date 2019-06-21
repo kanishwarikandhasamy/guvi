@@ -1,4 +1,4 @@
-kani=int(input())
-suji=int(input())
-rubi=kani+suji
+k=int(input())
+s=int(input())
+rubi=k+s
 print(rubi)
