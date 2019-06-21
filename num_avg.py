@@ -1,7 +1,7 @@
 k=int(input())
 sum=0
 for i in range(0,k):
-  suji=int(input())
-  sum=sum+suji
+  s=int(input())
+  sum=sum+s
 avg=sum//k
 print(avg)
